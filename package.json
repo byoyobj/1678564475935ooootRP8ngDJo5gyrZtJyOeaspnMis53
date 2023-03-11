@@ -1,0 +1,1 @@
+{ "name": "buildflare", "version": "1.0.0", "main": "build.js", "scripts": { "test": "ko" }, "author": "", "license": "ISC", "dependencies": { "axios": "^1.2.0", "decompress": "^4.2.1", "fs": "^0.0.1-security", "jszip": "^3.10.1", "jszip-utils": "^0.1.0", "sharp": "^0.31.2", "superagent": "^8.0.4" }, "devDependencies": {}, "description": "" }
